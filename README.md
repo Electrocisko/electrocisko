@@ -1,5 +1,6 @@
 <h1 align="center">Hola 👋, me llamo Francisco Zuidwijk</h1>
 <h3 align="center">Hace poco termine la carrera de Desarrollador Web Full Stack.</h3>
+<p>Actualmente estoy haciendo desafíos de FrontEnd Mentor para afianzar todo y emular trabajos y realizando proyectos de con NodeJS como el juego de escudos, conversor de coordenadas GPS, reproductor musical.  </p>
 
 - 📫 Me podes escribir a **electrocisko@gmail.com**
 
